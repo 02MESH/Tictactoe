@@ -86,7 +86,7 @@ public class tictactoe extends JFrame
         replayButton.addActionListener(ev ->replayGame());
         ////////////////////////////////////////////////
         //Setting dimensions////////////////////////////
-        setTitle("Assignment 4");
+        setTitle("Tictactoe");
         setSize(800,500);
         setDefaultCloseOperation(DISPOSE_ON_CLOSE);
         drawBoard();
